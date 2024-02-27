@@ -20,7 +20,7 @@
             bytNumRolls += 1
         Loop
         'Output number of rolls
-        lblNumRolls.Text = "Number of donut rolls: " & bytNumRolls.ToString
+        lblNumRolls.Text = "Number of jelly donut rolls: " & bytNumRolls.ToString
     End Sub
 End Class
 
