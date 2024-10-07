@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/DevOpsMowryOrg/DevOpsMowryProject/_apis/build/status%2FDuneManta.DiceToTarget?branchName=master)](https://dev.azure.com/DevOpsMowryOrg/DevOpsMowryProject/_build/latest?definitionId=4&branchName=master)
